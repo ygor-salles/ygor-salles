@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Ygor Salles 
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Typescript
-- 🤔 Estou procurando ajuda com configuração de testes com jest
+- 🔭 Hoje trabalho fullstcak (adonisJS e reactJS)
+- 🌱 Estudando Typescript, nodeJS, reactJS
 - 📫 Contacte o e-mail: ygorsallesaniceto@gmail.com
 
 <div align="center">
