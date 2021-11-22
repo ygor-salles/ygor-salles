@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ygor Salles 
 
-- 🔭 Hoje trabalho fullstcak (adonisJS e reactJS)
+- 🔭 Hoje trabalho fullstcak (nodeJS e reactJS)
 - 🌱 Estudando Typescript, nodeJS, reactJS
 - 📫 Contacte o e-mail: ygorsallesaniceto@gmail.com
 
