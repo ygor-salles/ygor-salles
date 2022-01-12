@@ -50,6 +50,9 @@
 - App Smarkio - Dita comentário cadastrado (SPA): https://smarkio-app.netlify.app/
 - App DS Delivery - Registro de pedidos com mapa (SPA): https://ygor-salles-sds2.netlify.app/
 - App Ds Delivery Motoboy - Baixa no pedido (PWA): https://dsdeliver-mobile.netlify.app/
-
+- Aplicação Desktop - Sistema Acadêmico (Desktop + SQL): https://github.com/ygor-salles/MVC-BD-Academico/tree/master/02_MVC-BD-SQL-Academico/02-Execut%C3%A1vel
+- Aplicação Desktop - Sistema Acêmico (Desktop + MongoDB): https://github.com/ygor-salles/MVC-BD-Academico/tree/master/03_BD-MongoDB-Academico/03-Execut%C3%A1vel
+- Calculadora Desktop Python: https://github.com/ygor-salles/Calculadora-Desktop-Python-Tkinter/tree/main/Calculadora-Execut%C3%A1vel
+- Calculadora Desktop Java: https://github.com/ygor-salles/Calculadora-Desktop-JavaSwing/tree/master/Execut%C3%A1vel
   
   
