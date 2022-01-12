@@ -39,4 +39,17 @@
    ![Snake animation](https://github.com/ygor-salles/ygor-salles/blob/main/github-contribution-grid-snake.svg)
    
 </div>
+
+## Alguns projetos pessoais:
+
+- Sistema Delivery de marmita painel admin (SPA): https://brasa-pousada-restaurante-admin.netlify.app/  
+  user:ygor@gmail.com 
+  password:123456
+- Delivery marmita app de pedidos (PWA): https://pousada-brasa-app.netlify.app/
+- App Devaria - Sistema de cadastro de módulos e aulas (SPA): https://devaria.netlify.app/
+- App Smarkio - Dita comentário cadastrado (SPA): https://smarkio-app.netlify.app/
+- App DS Delivery - Registro de pedidos com mapa (SPA): https://ygor-salles-sds2.netlify.app/
+- App Ds Delivery Motoboy - Baixa no pedido (PWA): https://dsdeliver-mobile.netlify.app/
+
+  
   
