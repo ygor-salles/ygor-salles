@@ -47,7 +47,10 @@
   password:123456
 - Delivery marmita app de pedidos (PWA): https://pousada-brasa-app.netlify.app/
 - App Devaria - Sistema de cadastro de módulos e aulas (SPA): https://devaria.netlify.app/
+- Sistema games-colab - Sistema colaborativo de cadastro de games (SPA): https://games-colab-frontend.vercel.app/
+- Sistema vivinio - Sistema colaborativo de cadastro de vinhos (SPA): https://vivinio-app.netlify.app/
 - App Smarkio - Dita comentário cadastrado (SPA): https://smarkio-app.netlify.app/
+- App Tech4 - Cadastro de clima de cidades (SPA): https://tech4-app.netlify.app/
 - App DS Delivery - Registro de pedidos com mapa (SPA): https://ygor-salles-sds2.netlify.app/
 - App Ds Delivery Motoboy - Baixa no pedido (PWA): https://dsdeliver-mobile.netlify.app/
 - Aplicação Desktop - Sistema Acadêmico (Desktop + SQL): https://github.com/ygor-salles/MVC-BD-Academico/tree/master/02_MVC-BD-SQL-Academico/02-Execut%C3%A1vel
