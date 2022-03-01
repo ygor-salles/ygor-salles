@@ -57,5 +57,6 @@
 - Aplicação Desktop - Sistema Acêmico (Desktop + MongoDB): https://github.com/ygor-salles/MVC-BD-Academico/tree/master/03_BD-MongoDB-Academico/03-Execut%C3%A1vel
 - Calculadora Desktop Python: https://github.com/ygor-salles/Calculadora-Desktop-Python-Tkinter/tree/main/Calculadora-Execut%C3%A1vel
 - Calculadora Desktop Java: https://github.com/ygor-salles/Calculadora-Desktop-JavaSwing/tree/master/Execut%C3%A1vel
+- Landing-page Ballerini: https://landing-page-ballerini-ygor.vercel.app/
   
   
