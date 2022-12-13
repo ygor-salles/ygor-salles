@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ygor Salles 
 
 - 🔭 Hoje trabalho Full Stack (nodeJS e reactJS)
-- 🌱 Estudando Typescript, nodeJS, reactJS
+- 🌱 Estudando Typescript, nodeJS, reactJS, react-native
 - 📫 Contacte o e-mail: ygorsallesaniceto@gmail.com
 
 <div align="center">
